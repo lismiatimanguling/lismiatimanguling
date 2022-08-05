@@ -8,7 +8,7 @@ Sometimes I like coding. I'm a product manager who passionate about web developm
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lismiati-manguling">
-    <img height="25" src="https://github.com/icalbalino/lismiatimanguling/blob/master/asset/linkedin.png" alt="linkedin logo png">
+    <img height="25" src="https://github.com/lismiatimanguling/lismiatimanguling/blob/main/asset/linkedin.png" alt="linkedin logo png">
   </a>
   &nbsp;
   <a href="https://www.instagram.com/miaisten/">
