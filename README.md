@@ -1,17 +1,17 @@
 <h1 align="center">Hi, I'm Mia 👋</h1>
 <p align="center">
-Sometimes I like coding. I'm a software engineer who passionate about web development. I learn HTML, CSS, JavaScript, CSs stuff and still know nothing. but I do know something.
+Sometimes I like coding. I'm a product manager who passionate about web development. I learn HTML, CSS, JavaScript, CSs stuff and still know nothing. but I do know something.
 </p>
 
 <br />
 <br />
 
 <p align="center">
-  <a href="https://twitter.com/icalbalino">
-    <img height="25" src="https://github.com/icalbalino/icalbalino/blob/master/asset/twitter.png" alt="twitter logo png">
+  <a href="https://www.linkedin.com/in/lismiati-manguling">
+    <img height="25" src="https://github.com/icalbalino/lismiatimanguling/blob/master/asset/linkedin.png" alt="linkedin logo png">
   </a>
   &nbsp;
-  <a href="https://www.instagram.com/icalbalino">
+  <a href="https://www.instagram.com/miaisten/">
     <img height="25" src="https://github.com/icalbalino/icalbalino/blob/master/asset/insta.png" alt="instagram logo png">
   </a>
 </p>
@@ -19,8 +19,8 @@ Sometimes I like coding. I'm a software engineer who passionate about web develo
 <br />
 
 ## About me
-- 🌱 I’m currently learning Web Audio API with JavaScript
-- 💬 Ask me about anything [here](https://github.com/icalbalino/icalbalino/issues)
+- 🌱 I’m currently learning Web Front-End
+- 💬 Ask me about anything [here](https://github.com/lismiatimanguling/lismiatimanguling/issues)
 - 📫 How to reach me: hit me on **Instagram** or **Email**
 - ⚡ Fun fact: no fact, but I'm fun
 
