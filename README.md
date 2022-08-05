@@ -12,7 +12,7 @@ Sometimes I like coding. I'm a product manager who passionate about web developm
   </a>
   &nbsp;
   <a href="https://www.instagram.com/miaisten/">
-    <img height="25" src="https://github.com/icalbalino/icalbalino/blob/master/asset/insta.png" alt="instagram logo png">
+    <img height="25" src="https://github.com/lismiatimanguling/lismiatimanguling/blob/main/asset/insta.png" alt="instagram logo png">
   </a>
 </p>
 
