@@ -35,12 +35,12 @@ Sometimes I like coding. I'm a product manager who passionate about web developm
 <code><img height="25" src="https://github.com/icalbalino/icalbalino/blob/master/asset/github.png" alt="github logo png"></code>
 
 <br />
-
+<!--
 ##
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=icalbalino&theme=github_dark&show_icons=true&include_all_commits=true&hide_border=true&border_radius=20&count_private=true&hide=stars,prs,issues,contribs) &nbsp;
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@icalbalino&theme=github_dark&hide_border=true&border_radius=20) &nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icalbalino&theme=github_dark&layout=compact&hide_border=true&border_radius=20&langs_count=10&card_width=445)
-
+-->
 
 <!--
 **icalbalino/icalbalino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
